@@ -146,7 +146,7 @@ span{
 }
 
 
-@media (max-width: 375px) {
+@media (max-width: 1024px) {
 
      body{
          background-color: #eff4fd;;
